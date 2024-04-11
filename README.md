@@ -1,5 +1,6 @@
-I have carried out the SQL Project in two parts ( An outcome of Data Bootcamp by Alex - The Analyst ).
+SQL PROJECT IN TWO PARTS : 
 
+I have carried out the SQL Project in two parts ( An outcome of Data Bootcamp by Alex - The Analyst ).
 
 The first part of the Project has been carried out by extracting a file named "coronavirus-data-explorer.csv" ( Source ourworldindata.org/covid-deaths ).
 
