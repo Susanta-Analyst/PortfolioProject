@@ -8,6 +8,8 @@ The first part of the Project has been carried out by extracting a file named "c
 
 From this file that is "coronavirus-data-explorer.csv" two different files have been created which are "CovidDeaths" and "CovidVaccinations".
 
+This part of the project is mostly on data exploration from "coronavirus-data-explorer.csv" and the results being put in the two above files.
+
 The entire task performed in the first part of the project has been put in a File named " COVID - PROJECT SQL.sql ".
 
 It may please be noted that all the commands given in the file "COVID - PROJECT SQL.sql" has been executed on the two files CovidDeaths and CovidVaccinations.
