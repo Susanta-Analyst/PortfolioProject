@@ -5,7 +5,6 @@
 Select *
 From dbo.NashvilleHousing
 
-/*
 
 --STANDARDISE DATA FORMAT--
  
