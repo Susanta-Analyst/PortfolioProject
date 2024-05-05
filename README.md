@@ -18,8 +18,8 @@ PART II :
 
 The second part of the Project has been carried out by extracting a file named "Nashville Housing Data for Data Cleaning.xlsx " ( Source github.com/AlexTheAnalyst/PortfolioProjects ).
 
-This part of the project is mostly on Data Cleaning from and the results being put in the two above files.
+This part of the project is mostly on Data Cleaning.
 
-The entire task performed in the first part of the project has been put in a File named " NashvilleHousing.sql ".
+The entire task performed in the project has been put in a File named " NashvilleHousing.sql ".
 
 It may please be noted that all the commands given in the file "NashvilleHousing.sql" has been executed on the original file "Nashville Housing Data for Data Cleaning.xlsx " ( Source github.com/AlexTheAnalyst/PortfolioProjects )
