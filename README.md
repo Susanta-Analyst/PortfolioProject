@@ -1,8 +1,8 @@
-SQL PROJECT IN TWO PARTS : 
+## SQL PROJECT IN TWO PARTS : 
 
 I have carried out the SQL Project in two parts ( An outcome of Data Bootcamp by Alex - The Analyst ).
 
-PART I :
+### PART I :
 
 The first part of the Project has been carried out by extracting a file named "coronavirus-data-explorer.csv" ( Source ourworldindata.org/covid-deaths ).
 
@@ -14,7 +14,7 @@ The entire task performed in the first part of the project has been put in a Fil
 
 It may please be noted that all the commands given in the file "COVID - PROJECT SQL.sql" has been executed on the two files CovidDeaths and CovidVaccinations.
 
-PART II :
+### PART II :
 
 The second part of the Project has been carried out by extracting a file named "Nashville Housing Data for Data Cleaning.xlsx " ( Source github.com/AlexTheAnalyst/PortfolioProjects ).
 
